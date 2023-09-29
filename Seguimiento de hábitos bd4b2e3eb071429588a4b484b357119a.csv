@@ -1,0 +1,9 @@
+﻿Dia,Ir al gimnasio,"Practicar baloncesto ","Estudiar ",Pasear mascota,"Descansar bien ","Total completado "
+Lunes,Yes,Yes,Yes,Yes,Yes,5
+Martes,Yes,Yes,Yes,Yes,Yes,5
+"Miércoles ",No,No,Yes,Yes,Yes,3
+"Jueves ",Yes,No,Yes,Yes,Yes,4
+Viernes,Yes,No,Yes,Yes,No,3
+"Sábado ",Yes,Yes,No,Yes,Yes,4
+"Domingo ",No,Yes,No,Yes,No,2
+,No,No,No,No,No,
